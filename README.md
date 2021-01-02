@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/thumbnail.png"/>
+  <img src="demo/SubmissionFlutterPemula.png"/>
 </p>
 
 ## Table of Contents
@@ -43,7 +43,7 @@ Clone or Download and Open it into Android Studio
 
 |All Movies|Detail Movies|
 |--|--|
-|![](assets/Movies.gif?raw=true)|![](assets/tv_shows.gif?raw=true)|
+|![](demo/movies.gif?raw=true)|![](demo/detail.gif?raw=true)|
 
 ## Features
 - Get All the Movies
