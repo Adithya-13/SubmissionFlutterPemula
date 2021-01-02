@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="http://developer.android.com/index.html"><img alt="Platform" src="https://img.shields.io/badge/platform-Android-green.svg"></a>
-  <a href="http://developer.android.com/index.html"><img alt="Platform" src="https://img.shields.io/badge/platform-iOS-blue.svg"></a>
-  <a href="http://kotlinlang.org"><img alt="Kotlin" src="https://img.shields.io/badge/Flutter-1.22.5-blue.svg"></a>
+  <a href="http://developer.android.com/index.html"><img alt="Platform-Android" src="https://img.shields.io/badge/platform-Android-green.svg"></a>
+  <a href="https://www.apple.com/"><img alt="Platform-iOS" src="https://img.shields.io/badge/platform-iOS-blue.svg"></a>
+  <a href="http://kotlinlang.org"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-1.22.5-blue.svg"></a>
   <a href="https://github.com/Adithya-13/SubmissionFlutterPemula/"><img alt="Star" src="https://img.shields.io/github/stars/Adithya-13/SubmissionFlutterPemula"></a>
 </p>
 
@@ -26,6 +26,12 @@
 
 ## Introduction
 
+This project is made to fulfill a Submission in Dicoding course.
+
+In this project, i learned to made a beautiful UI in flutter. For the 3rd Party Library i used in this project, you can look [here](#dependencies), i Used the dummyData for DataSource that u can see in [here](https://github.com/Adithya-13/SubmissionFlutterPemula/tree/master/assets/images)
+
+I Hope this Project will help someone, if you feel helped with this project, you can give stars to support me, thank you very much :)
+
 ## Installation
 
 Clone or Download and Open it into Android Studio
@@ -35,13 +41,9 @@ Clone or Download and Open it into Android Studio
 
 ## Demo
 
-|All Movies|All Tv Shows|Detail Movies|Detail Tv Shows|
-|--|--|--|--|
-|![](assets/Movies.gif?raw=true)|![](assets/tv_shows.gif?raw=true)|![](assets/detail_movies.gif?raw=true)|![](assets/detail_tv_shows.gif?raw=true)|
-
-|Search Movies|Search Tv Shows|Favorite Movies|Favorite Tv Shows|
-|--|--|--|--|
-|![](assets/search_movies.gif?raw=true)|![](assets/search_tv_shows.gif?raw=true)|![](assets/favorite_movies.gif?raw=true)|![](assets/favorite_tv_shows.gif?raw=true)|
+|All Movies|Detail Movies|
+|--|--|
+|![](assets/Movies.gif?raw=true)|![](assets/tv_shows.gif?raw=true)|
 
 ## Features
 - Get All the Movies
@@ -49,3 +51,5 @@ Clone or Download and Open it into Android Studio
 - Detail Movies
 
 ## Dependencies
+- [Auto Size Text](https://pub.dev/packages/auto_size_text)
+- [Flutter Swiper](https://pub.dev/packages/flutter_swiper)
